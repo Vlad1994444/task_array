@@ -1,0 +1,8 @@
+Min value -45.4, max value 64.54
+Numbers from array between 2.0 and 5.0 : 2.465 4.5 
+Average number in array is 5,76
+Amount of positive numbers - 6. Amount of negative numbers - 1
+Sum of all numbers in array is equal to 40,34
+First sorting: [-45.4, 0.834, 0.85, 2.465, 4.5, 12.5464, 64.54]
+Second sorting: [-45.4, 0.834, 0.85, 2.465, 4.5, 12.5464, 64.54]
+Third sorting: [-45.4, 0.834, 0.85, 2.465, 4.5, 12.5464, 64.54]
